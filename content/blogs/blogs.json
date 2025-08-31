@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Sample Blogs 1",
+        "description": "This is a sample description for blogs 1.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs1.jpg",
+        "link": "https://example.com/blogs/1"
+    },
+    {
+        "id": 2,
+        "title": "Sample Blogs 2",
+        "description": "This is a sample description for blogs 2.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs2.jpg",
+        "link": "https://example.com/blogs/2"
+    },
+    {
+        "id": 3,
+        "title": "Sample Blogs 3",
+        "description": "This is a sample description for blogs 3.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs3.jpg",
+        "link": "https://example.com/blogs/3"
+    },
+    {
+        "id": 4,
+        "title": "Sample Blogs 4",
+        "description": "This is a sample description for blogs 4.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs4.jpg",
+        "link": "https://example.com/blogs/4"
+    },
+    {
+        "id": 5,
+        "title": "Sample Blogs 5",
+        "description": "This is a sample description for blogs 5.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs5.jpg",
+        "link": "https://example.com/blogs/5"
+    },
+    {
+        "id": 6,
+        "title": "Sample Blogs 6",
+        "description": "This is a sample description for blogs 6.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs6.jpg",
+        "link": "https://example.com/blogs/6"
+    },
+    {
+        "id": 7,
+        "title": "Sample Blogs 7",
+        "description": "This is a sample description for blogs 7.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs7.jpg",
+        "link": "https://example.com/blogs/7"
+    },
+    {
+        "id": 8,
+        "title": "Sample Blogs 8",
+        "description": "This is a sample description for blogs 8.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs8.jpg",
+        "link": "https://example.com/blogs/8"
+    },
+    {
+        "id": 9,
+        "title": "Sample Blogs 9",
+        "description": "This is a sample description for blogs 9.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs9.jpg",
+        "link": "https://example.com/blogs/9"
+    },
+    {
+        "id": 10,
+        "title": "Sample Blogs 10",
+        "description": "This is a sample description for blogs 10.",
+        "date": "2025-08-31",
+        "image": "/assets/blogs10.jpg",
+        "link": "https://example.com/blogs/10"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Sample Websites 1",
+        "description": "This is a sample description for websites 1.",
+        "date": "2025-08-31",
+        "image": "/assets/websites1.jpg",
+        "link": "https://example.com/websites/1"
+    },
+    {
+        "id": 2,
+        "title": "Sample Websites 2",
+        "description": "This is a sample description for websites 2.",
+        "date": "2025-08-31",
+        "image": "/assets/websites2.jpg",
+        "link": "https://example.com/websites/2"
+    },
+    {
+        "id": 3,
+        "title": "Sample Websites 3",
+        "description": "This is a sample description for websites 3.",
+        "date": "2025-08-31",
+        "image": "/assets/websites3.jpg",
+        "link": "https://example.com/websites/3"
+    },
+    {
+        "id": 4,
+        "title": "Sample Websites 4",
+        "description": "This is a sample description for websites 4.",
+        "date": "2025-08-31",
+        "image": "/assets/websites4.jpg",
+        "link": "https://example.com/websites/4"
+    },
+    {
+        "id": 5,
+        "title": "Sample Websites 5",
+        "description": "This is a sample description for websites 5.",
+        "date": "2025-08-31",
+        "image": "/assets/websites5.jpg",
+        "link": "https://example.com/websites/5"
+    },
+    {
+        "id": 6,
+        "title": "Sample Websites 6",
+        "description": "This is a sample description for websites 6.",
+        "date": "2025-08-31",
+        "image": "/assets/websites6.jpg",
+        "link": "https://example.com/websites/6"
+    },
+    {
+        "id": 7,
+        "title": "Sample Websites 7",
+        "description": "This is a sample description for websites 7.",
+        "date": "2025-08-31",
+        "image": "/assets/websites7.jpg",
+        "link": "https://example.com/websites/7"
+    },
+    {
+        "id": 8,
+        "title": "Sample Websites 8",
+        "description": "This is a sample description for websites 8.",
+        "date": "2025-08-31",
+        "image": "/assets/websites8.jpg",
+        "link": "https://example.com/websites/8"
+    },
+    {
+        "id": 9,
+        "title": "Sample Websites 9",
+        "description": "This is a sample description for websites 9.",
+        "date": "2025-08-31",
+        "image": "/assets/websites9.jpg",
+        "link": "https://example.com/websites/9"
+    },
+    {
+        "id": 10,
+        "title": "Sample Websites 10",
+        "description": "This is a sample description for websites 10.",
+        "date": "2025-08-31",
+        "image": "/assets/websites10.jpg",
+        "link": "https://example.com/websites/10"
+    }
+]

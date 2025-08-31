@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Sample Products 1",
+        "description": "This is a sample description for products 1.",
+        "date": "2025-08-31",
+        "image": "/assets/products1.jpg",
+        "link": "https://example.com/products/1"
+    },
+    {
+        "id": 2,
+        "title": "Sample Products 2",
+        "description": "This is a sample description for products 2.",
+        "date": "2025-08-31",
+        "image": "/assets/products2.jpg",
+        "link": "https://example.com/products/2"
+    },
+    {
+        "id": 3,
+        "title": "Sample Products 3",
+        "description": "This is a sample description for products 3.",
+        "date": "2025-08-31",
+        "image": "/assets/products3.jpg",
+        "link": "https://example.com/products/3"
+    },
+    {
+        "id": 4,
+        "title": "Sample Products 4",
+        "description": "This is a sample description for products 4.",
+        "date": "2025-08-31",
+        "image": "/assets/products4.jpg",
+        "link": "https://example.com/products/4"
+    },
+    {
+        "id": 5,
+        "title": "Sample Products 5",
+        "description": "This is a sample description for products 5.",
+        "date": "2025-08-31",
+        "image": "/assets/products5.jpg",
+        "link": "https://example.com/products/5"
+    },
+    {
+        "id": 6,
+        "title": "Sample Products 6",
+        "description": "This is a sample description for products 6.",
+        "date": "2025-08-31",
+        "image": "/assets/products6.jpg",
+        "link": "https://example.com/products/6"
+    },
+    {
+        "id": 7,
+        "title": "Sample Products 7",
+        "description": "This is a sample description for products 7.",
+        "date": "2025-08-31",
+        "image": "/assets/products7.jpg",
+        "link": "https://example.com/products/7"
+    },
+    {
+        "id": 8,
+        "title": "Sample Products 8",
+        "description": "This is a sample description for products 8.",
+        "date": "2025-08-31",
+        "image": "/assets/products8.jpg",
+        "link": "https://example.com/products/8"
+    },
+    {
+        "id": 9,
+        "title": "Sample Products 9",
+        "description": "This is a sample description for products 9.",
+        "date": "2025-08-31",
+        "image": "/assets/products9.jpg",
+        "link": "https://example.com/products/9"
+    },
+    {
+        "id": 10,
+        "title": "Sample Products 10",
+        "description": "This is a sample description for products 10.",
+        "date": "2025-08-31",
+        "image": "/assets/products10.jpg",
+        "link": "https://example.com/products/10"
+    }
+]

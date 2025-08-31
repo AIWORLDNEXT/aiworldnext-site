@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Sample Vision 1",
+        "description": "This is a sample description for vision 1.",
+        "date": "2025-08-31",
+        "image": "/assets/vision1.jpg",
+        "link": "https://example.com/vision/1"
+    },
+    {
+        "id": 2,
+        "title": "Sample Vision 2",
+        "description": "This is a sample description for vision 2.",
+        "date": "2025-08-31",
+        "image": "/assets/vision2.jpg",
+        "link": "https://example.com/vision/2"
+    },
+    {
+        "id": 3,
+        "title": "Sample Vision 3",
+        "description": "This is a sample description for vision 3.",
+        "date": "2025-08-31",
+        "image": "/assets/vision3.jpg",
+        "link": "https://example.com/vision/3"
+    },
+    {
+        "id": 4,
+        "title": "Sample Vision 4",
+        "description": "This is a sample description for vision 4.",
+        "date": "2025-08-31",
+        "image": "/assets/vision4.jpg",
+        "link": "https://example.com/vision/4"
+    },
+    {
+        "id": 5,
+        "title": "Sample Vision 5",
+        "description": "This is a sample description for vision 5.",
+        "date": "2025-08-31",
+        "image": "/assets/vision5.jpg",
+        "link": "https://example.com/vision/5"
+    },
+    {
+        "id": 6,
+        "title": "Sample Vision 6",
+        "description": "This is a sample description for vision 6.",
+        "date": "2025-08-31",
+        "image": "/assets/vision6.jpg",
+        "link": "https://example.com/vision/6"
+    },
+    {
+        "id": 7,
+        "title": "Sample Vision 7",
+        "description": "This is a sample description for vision 7.",
+        "date": "2025-08-31",
+        "image": "/assets/vision7.jpg",
+        "link": "https://example.com/vision/7"
+    },
+    {
+        "id": 8,
+        "title": "Sample Vision 8",
+        "description": "This is a sample description for vision 8.",
+        "date": "2025-08-31",
+        "image": "/assets/vision8.jpg",
+        "link": "https://example.com/vision/8"
+    },
+    {
+        "id": 9,
+        "title": "Sample Vision 9",
+        "description": "This is a sample description for vision 9.",
+        "date": "2025-08-31",
+        "image": "/assets/vision9.jpg",
+        "link": "https://example.com/vision/9"
+    },
+    {
+        "id": 10,
+        "title": "Sample Vision 10",
+        "description": "This is a sample description for vision 10.",
+        "date": "2025-08-31",
+        "image": "/assets/vision10.jpg",
+        "link": "https://example.com/vision/10"
+    }
+]
