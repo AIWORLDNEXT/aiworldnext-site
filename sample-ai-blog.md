@@ -1,0 +1,3 @@
+# Future of Generative AI
+
+Sample blog content here...
