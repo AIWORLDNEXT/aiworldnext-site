@@ -1,0 +1,17 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+    "./content/**/*.{md,mdx}"
+  ],
+  theme: {
+    extend: {
+      colors: {
+        neon: "#00f0ff",
+        robot: "#00ff88"
+      }
+    },
+  },
+  plugins: [],
+}
