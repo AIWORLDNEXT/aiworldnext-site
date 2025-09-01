@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aiworldnext.com/sitemap.xml
