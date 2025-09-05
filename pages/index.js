@@ -1,11 +1,11 @@
+// pages/index.js
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import Card from '../components/Card'
-import news from '../content/news/index.json'
-import blogs from '../content/blogs/index.json'
-import jobs from '../content/jobs/index.json'
+import path from 'path'
+import fs from 'fs'
 
-export default function Home(){
+export default function Home({ news, blogs, jobs }) {
   return (
     <div>
       <Navbar />
@@ -39,4 +39,27 @@ export default function Home(){
       <Footer />
     </div>
   )
+}
+
+function safeReadIndexJson(folderName) {
+  try {
+    const filePath = path.join(process.cwd(), 'content', folderName, 'index.json')
+    if (fs.existsSync(filePath)) {
+      const raw = fs.readFileSync(filePath, 'utf8')
+      return JSON.parse(raw)
+    }
+  } catch (err) {
+    // silent fallback
+  }
+  return []
+}
+
+export async function getStaticProps() {
+  const news = safeReadIndexJson('news')
+  const blogs = safeReadIndexJson('blogs')
+  const jobs = safeReadIndexJson('jobs')
+
+  return {
+    props: { news, blogs, jobs }
+  }
 }
