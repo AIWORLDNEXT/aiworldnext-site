@@ -1,0 +1,72 @@
+[
+  {
+    "title": "ArXiv.org \u2014 AI Papers",
+    "description": "Preprints and research in AI and machine learning.",
+    "date": "2025-01-01",
+    "image": "https://source.unsplash.com/800x600/?arxiv,ai",
+    "link": "https://arxiv.org/"
+  },
+  {
+    "title": "TechCrunch \u2014 AI Section",
+    "description": "Latest AI business & startup news.",
+    "date": "2025-07-01",
+    "image": "https://source.unsplash.com/800x600/?techcrunch,ai",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI Website 3",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-05-10",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 4",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-04-22",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 5",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-04-22",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 6",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-06-27",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 7",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-08-31",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 8",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-05-10",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 9",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-02-14",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  },
+  {
+    "title": "AI Website 10",
+    "description": "Useful portal or directory for AI resources.",
+    "date": "2025-03-05",
+    "image": "https://source.unsplash.com/800x600/?website,ai",
+    "link": "https://example.com/"
+  }
+]

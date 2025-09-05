@@ -1,0 +1,72 @@
+[
+  {
+    "title": "OpenAI announces GPT-5 with advanced reasoning",
+    "description": "OpenAI has publicly released GPT-5, emphasizing improved reasoning and multimodal capabilities.",
+    "date": "2025-08-20",
+    "image": "https://source.unsplash.com/800x600/?ai,technology",
+    "link": "https://openai.com/"
+  },
+  {
+    "title": "NVIDIA releases new chips for edge AI",
+    "description": "NVIDIA's latest accelerator targets inference at the edge for robotics and IoT devices.",
+    "date": "2025-08-10",
+    "image": "https://source.unsplash.com/800x600/?nvidia,ai",
+    "link": "https://www.nvidia.com/"
+  },
+  {
+    "title": "Boston Dynamics publishes new humanoid demo",
+    "description": "A new demo shows whole-body manipulation in unstructured environments.",
+    "date": "2025-07-28",
+    "image": "https://source.unsplash.com/800x600/?robotics,humanoid",
+    "link": "https://www.bostondynamics.com/"
+  },
+  {
+    "title": "AI News Bulletin 4 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-08-20",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI News Bulletin 5 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-06-27",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI News Bulletin 6 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-08-20",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI News Bulletin 7 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-03-05",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI News Bulletin 8 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-08-31",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI News Bulletin 9 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-04-22",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  },
+  {
+    "title": "AI News Bulletin 10 \u2014 Industry update",
+    "description": "Curated industry update covering research, products and policy.",
+    "date": "2025-04-22",
+    "image": "https://source.unsplash.com/800x600/?ai,news",
+    "link": "https://techcrunch.com/"
+  }
+]
