@@ -1,19 +1,18 @@
-export default function Navbar(){ 
+// components/Navbar.js
+export default function Navbar(){
   return (
-    <nav className="w-full py-4 px-6 flex items-center justify-between border-b border-gray-800">
-      <div className="flex items-center gap-3">
-        <img src="/assets/logo.svg" alt="AIWorldNext" className="w-10 h-10"/>
+    <nav style={{padding:16, borderBottom:"1px solid #111", display:"flex", gap:16, alignItems:"center"}}>
+      <div style={{display:"flex", alignItems:"center", gap:12}}>
+        <img src="/assets/logo.svg" alt="AIWorldNext" style={{width:48,height:48}}/>
         <div>
-          <div className="font-bold text-lg">AIWorldNext</div>
-          <div className="text-xs text-gray-400">Global Hub for AI & Robotics</div>
+          <div style={{fontWeight:700}}>AIWorldNext</div>
+          <div style={{fontSize:12, color:"#9CA3AF"}}>Global Hub for AI & Robotics</div>
         </div>
       </div>
-      <div className="flex gap-4 text-sm">
-        <a href="/news">News</a>
-        <a href="/blogs">Blogs</a>
-        <a href="/jobs">Jobs</a>
-        <a href="/products">Products</a>
-        <a href="/vision">Vision</a>
+      <div style={{marginLeft:"auto"}}>
+        <a href="/news" style={{marginRight:12}}>News</a>
+        <a href="/blogs" style={{marginRight:12}}>Blogs</a>
+        <a href="/jobs" style={{marginRight:12}}>Jobs</a>
       </div>
     </nav>
   )
